@@ -1,0 +1,24 @@
+{
+  "name": "besu-storage-redis",
+  "version": "1.0.0",
+  "description": "Hyperledger Besu Redis",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "src": "src"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as2network/besu-storage-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/as2network/besu-storage-redis/issues"
+  },
+  "homepage": "https://github.com/as2network/besu-storage-redis#readme"
+}
